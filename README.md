@@ -1,1 +1,1 @@
-# OOADHotelChainManagement
+# OOAD Hotel-Chain-Management
